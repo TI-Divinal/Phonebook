@@ -335,5 +335,19 @@
 		<Company>Divinal</Company>
 		<Department>Vendas</Department>
 	</Contact>
+	<Contact>
+		<id>66</id>
+		<FirstName>Tiago Rodrigues</FirstName>
+		<JobTitle>CPD – TI</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9634</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>22</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>TI</Department>
+	</Contact>
 </AddressBook>
 
