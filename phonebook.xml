@@ -337,6 +337,20 @@
 		<Company>Divinal</Company>
 	</Contact>
 	<Contact>
+		<id>406</id>
+		<FirstName>Daniel</FirstName>
+		<JobTitle>Controle de Qualidade</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9666</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>41</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>E-Commerce</Department>
+	</Contact>
+	<Contact>
 		<id>88</id>
 		<FirstName>Gustavo</FirstName>
 		<JobTitle>E-Commerce</JobTitle>
@@ -470,7 +484,7 @@
 	</Contact>
 	<Contact>
 		<id>92</id>
-		<FirstName>---</FirstName>
+		<FirstName>----</FirstName>
 		<JobTitle>Vendedor</JobTitle>
 		<Frequent>0</Frequent>
 		<Phone type="Work">
