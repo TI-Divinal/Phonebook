@@ -1,0 +1,1755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddressBook>
+	<pbgroup>
+		<id>1</id>
+		<name>Blacklist</name>
+		<ringtones>system</ringtones>
+	</pbgroup>
+	<pbgroup>
+		<id>29</id>
+		<name>Divinal MG</name>
+	</pbgroup>
+	<pbgroup>
+		<id>30</id>
+		<name>Divinal SP</name>
+	</pbgroup>
+	<pbgroup>
+		<id>31</id>
+		<name>Diretoria</name>
+	</pbgroup>
+	<Contact>
+		<id>82</id>
+		<FirstName>Abdo</FirstName>
+		<JobTitle>Gerente Geral</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9650</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Comercial</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>83</id>
+		<FirstName>Adilson</FirstName>
+		<JobTitle>Coord. Administrativo</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9642</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Financeiro</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>200</id>
+		<FirstName>Adrian</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2139</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Outros</Department>
+	</Contact>
+	<Contact>
+		<id>201</id>
+		<FirstName>Alberto</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2139</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Outros</Department>
+	</Contact>
+	<Contact>
+		<id>142</id>
+		<FirstName>Alessandro Almeida</FirstName>
+		<JobTitle>Gerente</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2115</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>182</id>
+		<FirstName>Alice Neves</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2141</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Comercial</Department>
+	</Contact>
+	<Contact>
+		<id>198</id>
+		<FirstName>Allison Nascimento</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2153</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Produção</Department>
+	</Contact>
+	<Contact>
+		<id>197</id>
+		<FirstName>Anderson Alvim </FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2190</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Produção</Department>
+	</Contact>
+	<Contact>
+		<id>84</id>
+		<FirstName>Andreia</FirstName>
+		<JobTitle>Vendedor</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9688</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Vendas</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>164</id>
+		<FirstName>André</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2131</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Financeiro</Department>
+	</Contact>
+	<Contact>
+		<id>208</id>
+		<FirstName>Box - SP</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2156</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Expedição</Department>
+	</Contact>
+	<Contact>
+		<id>161</id>
+		<FirstName>Bruna</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2114</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Financeiro</Department>
+	</Contact>
+	<Contact>
+		<id>170</id>
+		<FirstName>Bruna Lima</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2108</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Recursos Humanos</Department>
+	</Contact>
+	<Contact>
+		<id>190</id>
+		<FirstName>Bruno Salles</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2146</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Logistica</Department>
+	</Contact>
+	<Contact>
+		<id>199</id>
+		<FirstName>Bruno Silva</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2145</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Outros</Department>
+	</Contact>
+	<Contact>
+		<id>85</id>
+		<FirstName>Thaynara</FirstName>
+		<JobTitle>Vendedor</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9678</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Vendas</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>193</id>
+		<FirstName>Caio</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2171</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Estoque</Department>
+	</Contact>
+	<Contact>
+		<id>86</id>
+		<FirstName>Camila</FirstName>
+		<JobTitle>Caixa</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9632</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Financeiro</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>87</id>
+		<FirstName>Carlos</FirstName>
+		<JobTitle>Gerente de Expansão</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9654</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Comercial</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>151</id>
+		<FirstName>Carol Ferreira </FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2112</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>E-Commerce</Department>
+	</Contact>
+	<Contact>
+		<id>138</id>
+		<FirstName>Claudia</FirstName>
+		<JobTitle>Telefonista</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9635</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Vendas</Department>
+	</Contact>
+	<Contact>
+		<id>209</id>
+		<FirstName>Comum - SP</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2160</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Expedição</Department>
+	</Contact>
+	<Contact>
+		<id>172</id>
+		<FirstName>César Eduardo </FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2138</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Comercial</Department>
+	</Contact>
+	<Contact>
+		<id>144</id>
+		<FirstName>César Pereira </FirstName>
+		<JobTitle>Gerente</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2107</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>406</id>
+		<FirstName>Daniel</FirstName>
+		<JobTitle>Controle de Qualidade</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9666</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>41</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>E-Commerce</Department>
+	</Contact>
+	<Contact>
+		<id>88</id>
+		<FirstName>Gustavo</FirstName>
+		<JobTitle>E-Commerce</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9629</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>E-Commerce</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>149</id>
+		<FirstName>David  Camargo </FirstName>
+		<JobTitle>Gerente</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2109</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>165</id>
+		<FirstName>David Cardoso</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2131</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Financeiro</Department>
+	</Contact>
+	<Contact>
+		<id>89</id>
+		<FirstName>Denis</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9639</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<Department>Produção</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>90</id>
+		<FirstName>Douglas</FirstName>
+		<JobTitle>Estoque</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9623</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Estoque</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>91</id>
+		<FirstName>E-COMMERCE</FirstName>
+		<JobTitle>Dep. tecnico</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9647</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>E-Commerce</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>173</id>
+		<FirstName>Eliane Pereira </FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2119</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Comercial</Department>
+	</Contact>
+	<Contact>
+		<id>155</id>
+		<FirstName>Erick</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2157</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>E-Commerce</Department>
+	</Contact>
+	<Contact>
+		<id>162</id>
+		<FirstName>Erika</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2114</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Financeiro</Department>
+	</Contact>
+	<Contact>
+		<id>210</id>
+		<FirstName>Expedição - MG</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9613</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Expedição</Department>
+	</Contact>
+	<Contact>
+		<id>92</id>
+		<FirstName>----</FirstName>
+		<JobTitle>Vendedor</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9617</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Vendas</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>93</id>
+		<FirstName>Felipe</FirstName>
+		<JobTitle>Tec. Manutenção</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9630</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Logistica</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>174</id>
+		<FirstName>Fernando Maia </FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2135</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Comercial</Department>
+	</Contact>
+	<Contact>
+		<id>94</id>
+		<FirstName>Fernando Passi -BH</FirstName>
+		<JobTitle>Diretor Comercial</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9604</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Group>31</Group>
+		<Primary>0</Primary>
+		<Department>Diretoria</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>152</id>
+		<FirstName>Fernando Passi -SP</FirstName>
+		<JobTitle>Diretor Comercial</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2173</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>31</Group>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Diretoria</Department>
+	</Contact>
+	<Contact>
+		<id>95</id>
+		<FirstName>Miguel Archanjo</FirstName>
+		<JobTitle>CPD – TI</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9657</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Phone type="Cell">
+			<phonenumber>031987118027</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>TI</Department>
+	</Contact>
+	<Contact>
+		<id>188</id>
+		<FirstName>Gelmir Pereira</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2155</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Logistica</Department>
+	</Contact>
+	<Contact>
+		<id>96</id>
+		<FirstName>Geraldo Borges</FirstName>
+		<JobTitle>Vendedor</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9614</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Vendas</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>97</id>
+		<FirstName>Geraldo Vale</FirstName>
+		<JobTitle>Gerente Financeiro</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9644</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Financeiro</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>98</id>
+		<FirstName>Gerson</FirstName>
+		<JobTitle>Chaparia</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9680</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Estoque</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>180</id>
+		<FirstName>Giovanna França</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2142</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Comercial</Department>
+	</Contact>
+	<Contact>
+		<id>100</id>
+		<FirstName>Caio Guimarães</FirstName>
+		<JobTitle>Gerente</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9646</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Comercial</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>186</id>
+		<FirstName>Henrique Silva</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2143</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Qualidade</Department>
+	</Contact>
+	<Contact>
+		<id>101</id>
+		<FirstName>Irani</FirstName>
+		<JobTitle>Vendedor</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9602</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Vendas</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>102</id>
+		<FirstName>Isaque</FirstName>
+		<JobTitle>Gerente Produção</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9655</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Produção</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>146</id>
+		<FirstName>Jackson França </FirstName>
+		<JobTitle>Gerente</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2111</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>187</id>
+		<FirstName>Janderson Oliveira</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2151</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Qualidade</Department>
+	</Contact>
+	<Contact>
+		<id>158</id>
+		<FirstName>Janete Ramos</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2181</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Financeiro</Department>
+	</Contact>
+	<Contact>
+		<id>153</id>
+		<FirstName>Jennifer Ingrid</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2180</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>E-Commerce</Department>
+	</Contact>
+	<Contact>
+		<id>179</id>
+		<FirstName>Jenny Sardinha</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2147</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Comercial</Department>
+	</Contact>
+	<Contact>
+		<id>103</id>
+		<FirstName>João Paulo</FirstName>
+		<JobTitle>Vendedor</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9627</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Vendas</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>169</id>
+		<FirstName>Juliana Oliveira</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2120</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Marketing</Department>
+	</Contact>
+	<Contact>
+		<id>104</id>
+		<FirstName>Juliano</FirstName>
+		<JobTitle>Vendedor</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9619</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Vendas</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>105</id>
+		<FirstName>Juliano Passi - BH</FirstName>
+		<JobTitle>Diretor</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9691</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Group>31</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Diretoria</Department>
+	</Contact>
+	<Contact>
+		<id>140</id>
+		<FirstName>Juliano Passi - SP</FirstName>
+		<JobTitle>Diretor</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2113</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Group>31</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Diretoria</Department>
+	</Contact>
+	<Contact>
+		<id>168</id>
+		<FirstName>Júlia Felipe</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2177</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Marketing</Department>
+	</Contact>
+	<Contact>
+		<id>148</id>
+		<FirstName>Júnior Silva</FirstName>
+		<JobTitle>Gerente</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2118</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>106</id>
+		<FirstName>Kaylany</FirstName>
+		<JobTitle>Marketing</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9692</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Comercial</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>196</id>
+		<FirstName>Kaique Vieira</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2179</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Produção</Department>
+	</Contact>
+	<Contact>
+		<id>157</id>
+		<FirstName>Kelly Almeida</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2192</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Financeiro</Department>
+	</Contact>
+	<Contact>
+		<id>107</id>
+		<FirstName>Kirley</FirstName>
+		<JobTitle>Cobrança</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9649</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Financeiro</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>167</id>
+		<FirstName>Laisa Ferreira</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2177</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Marketing</Department>
+	</Contact>
+	<Contact>
+		<id>145</id>
+		<FirstName>Leandro Gonçalves</FirstName>
+		<JobTitle>Gerente</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2132</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>143</id>
+		<FirstName>Lourdes Passi </FirstName>
+		<JobTitle>Diretor</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2134</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>108</id>
+		<FirstName>Lu</FirstName>
+		<JobTitle>Caixa</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9631</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Financeiro</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>202</id>
+		<FirstName>Luana Pires</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2130</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Outros</Department>
+	</Contact>
+	<Contact>
+		<id>109</id>
+		<FirstName>Almoxarifado</FirstName>
+		<JobTitle>Almoxarife</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9636</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Logistica</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>156</id>
+		<FirstName>Luciana Torres </FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2166</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Financeiro</Department>
+	</Contact>
+	<Contact>
+		<id>171</id>
+		<FirstName>Luis Fernando</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2121</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Comercial</Department>
+	</Contact>
+	<Contact>
+		<id>189</id>
+		<FirstName>Luiz Henrique</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2155</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Logistica</Department>
+	</Contact>
+	<Contact>
+		<id>110</id>
+		<FirstName>Maraline</FirstName>
+		<JobTitle>Marketing</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9616</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Comercial</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>205</id>
+		<FirstName>Marcel Rodrigues</FirstName>
+		<JobTitle>TI</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2175</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>TI</Department>
+	</Contact>
+	<Contact>
+		<id>111</id>
+		<FirstName>Marcelo</FirstName>
+		<JobTitle>Técnico de Segurança</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9620</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Logistica</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>206</id>
+		<FirstName>Marco Antônio</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2172</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Outros</Department>
+	</Contact>
+	<Contact>
+		<id>112</id>
+		<FirstName>Marina</FirstName>
+		<JobTitle>Caixa</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9631</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Financeiro</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>147</id>
+		<FirstName>Marlene Moura </FirstName>
+		<JobTitle>Gerente</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2128</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>113</id>
+		<FirstName>Marta</FirstName>
+		<JobTitle>Recursos Humanos</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9640</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Recursos Humanos</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>192</id>
+		<FirstName>Kelly Almeida</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2129</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Estoque</Department>
+	</Contact>
+	<Contact>
+		<id>204</id>
+		<FirstName>Telefonista SP</FirstName>
+		<JobTitle>Telefonista</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2199</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Telefonistas</Department>
+	</Contact>
+	<Contact>
+		<id>191</id>
+		<FirstName>Micael Silva</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2117</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Logistica</Department>
+	</Contact>
+	<Contact>
+		<id>175</id>
+		<FirstName>Márcia Correia </FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2125</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Comercial</Department>
+	</Contact>
+	<Contact>
+		<id>176</id>
+		<FirstName>Márcio Varga </FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2136</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Comercial</Department>
+	</Contact>
+	<Contact>
+		<id>114</id>
+		<FirstName>Nilsinei</FirstName>
+		<JobTitle>Vendedor</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9687</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Vendas</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>150</id>
+		<FirstName>Nilton Batista</FirstName>
+		<JobTitle>Gerente</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2123</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>166</id>
+		<FirstName>Noemy</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2148</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Marketing</Department>
+	</Contact>
+	<Contact>
+		<id>177</id>
+		<FirstName>Osmar Machado </FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2124</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Comercial</Department>
+	</Contact>
+	<Contact>
+		<id>159</id>
+		<FirstName>Patricia Priscila </FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2170</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Financeiro</Department>
+	</Contact>
+	<Contact>
+		<id>185</id>
+		<FirstName>Patricia Valéria</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2187</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Comercial</Department>
+	</Contact>
+	<Contact>
+		<id>115</id>
+		<FirstName>Paula Passi</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2127</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Group>31</Group>
+		<Primary>0</Primary>
+		<Department>Diretoria</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>116</id>
+		<FirstName>Paulo Henrique</FirstName>
+		<JobTitle>Gerente Informática</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9638</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>TI</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>184</id>
+		<FirstName>Paulo Passiano</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2174</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Comercial</Department>
+	</Contact>
+	<Contact>
+		<id>117</id>
+		<FirstName>Paulo Vitor</FirstName>
+		<JobTitle>CPD – TI</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9637</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>TI</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>118</id>
+		<FirstName>Peninha</FirstName>
+		<JobTitle>Cobrança</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9641</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Financeiro</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>119</id>
+		<FirstName>Portaria MG</FirstName>
+		<JobTitle>Portaria MG</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9656</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Portaria MG</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>120</id>
+		<FirstName>Rafael</FirstName>
+		<JobTitle>Coordenador E-commerce</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9625</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Primary>0</Primary>
+		<Department>E-Commerce</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>154</id>
+		<FirstName>Ramilly</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2157</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>E-Commerce</Department>
+	</Contact>
+	<Contact>
+		<id>163</id>
+		<FirstName>Renata Felix</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2149</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Financeiro</Department>
+	</Contact>
+	<Contact>
+		<id>178</id>
+		<FirstName>Renata Vieira </FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2106</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Comercial</Department>
+	</Contact>
+	<Contact>
+		<id>121</id>
+		<FirstName>Restaurante MG</FirstName>
+		<JobTitle>Restaurante</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9675</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Restaurante</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>122</id>
+		<FirstName>Rodrigo</FirstName>
+		<JobTitle>Gerente Geral</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9653</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Produção</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>195</id>
+		<FirstName>Rodrigo</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2123</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Estoque</Department>
+	</Contact>
+	<Contact>
+		<id>123</id>
+		<FirstName>Sabrina</FirstName>
+		<JobTitle>Vendedor</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9677</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Vendas</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>124</id>
+		<FirstName>Sala Diretoria -BH</FirstName>
+		<JobTitle>Diretoria</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9601</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Group>31</Group>
+		<Primary>0</Primary>
+		<Department>Diretoria</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>181</id>
+		<FirstName>Samuel Germano </FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2102</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Comercial</Department>
+	</Contact>
+	<Contact>
+		<id>125</id>
+		<FirstName>Sandra</FirstName>
+		<JobTitle>Vendedor</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9628</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Vendas</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>126</id>
+		<FirstName>Scarlat</FirstName>
+		<JobTitle>Marketing</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9603</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Comercial</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>183</id>
+		<FirstName>Sergio Cunha</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2133</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Comercial</Department>
+	</Contact>
+	<Contact>
+		<id>141</id>
+		<FirstName>Sidinei Gueller</FirstName>
+		<JobTitle>Gerente</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2144</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>127</id>
+		<FirstName>Sr. Passi - BH</FirstName>
+		<JobTitle>Diretor</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9615</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>31</Group>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Diretoria</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>139</id>
+		<FirstName>Sr. Passi - SP</FirstName>
+		<JobTitle>Diretor</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2101</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>31</Group>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Diretoria</Department>
+	</Contact>
+	<Contact>
+		<id>128</id>
+		<FirstName>Stefane</FirstName>
+		<JobTitle>Supervisora Comercial</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9622</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Comercial</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>160</id>
+		<FirstName>Tatiana Silva</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2137</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Financeiro</Department>
+	</Contact>
+	<Contact>
+		<id>137</id>
+		<FirstName>Telefonistas</FirstName>
+		<JobTitle>Telefonistas</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9799</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Vendas</Department>
+	</Contact>
+	<Contact>
+		<id>207</id>
+		<FirstName>Temperado - SP</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2185</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Expedição</Department>
+	</Contact>
+	<Contact>
+		<id>129</id>
+		<FirstName>Thais</FirstName>
+		<JobTitle>Contabilidade</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9645</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Financeiro</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>203</id>
+		<FirstName>Thayna</FirstName>
+		<JobTitle>Telefonista</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2100</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Telefonistas</Department>
+	</Contact>
+	<Contact>
+		<id>130</id>
+		<FirstName>Thiago Prates</FirstName>
+		<JobTitle>CPD – TI</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9652</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>TI</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>131</id>
+		<FirstName>Tiago Rodrigues</FirstName>
+		<JobTitle>CPD – TI</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9634</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>TI</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>132</id>
+		<FirstName>Vilma</FirstName>
+		<JobTitle>Cadastro</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9648</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Financeiro</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>133</id>
+		<FirstName>Wellington Ramos</FirstName>
+		<JobTitle>Logistica</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9626</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Logistica</Department>
+	</Contact>
+	<Contact>
+		<id>134</id>
+		<FirstName>Wellington Ventura</FirstName>
+		<JobTitle>Vendedor</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9605</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Vendas</Department>
+		<Company>Divinal</Company>
+	</Contact>
+	<Contact>
+		<id>194</id>
+		<FirstName>Yan</FirstName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>2152</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>30</Group>
+		<Primary>0</Primary>
+		<Company>Divinal</Company>
+		<Department>Estoque</Department>
+	</Contact>
+	<Contact>
+		<id>135</id>
+		<FirstName>Yuri</FirstName>
+		<JobTitle>Vendedor</JobTitle>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>9674</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>29</Group>
+		<Primary>0</Primary>
+		<Department>Vendas</Department>
+		<Company>Divinal</Company>
+	</Contact>
+</AddressBook>
+
